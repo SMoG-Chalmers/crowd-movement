@@ -4,6 +4,6 @@ A notebook for fitting and evaluating models for daily counts of pedestrians. Ge
  
 The models are used in the 'Crowd Movement, a milestone project of the DTCC Gothenburg (Digital Twin City Center at Chalmers University of Technology (https://dtcc.chalmers.se/crowd-movement-2/). The project aims to support decision making in urban planning through analyzing and simulating pedestrian movement flows in public space by linking macroscale and microscale simulations.
  
-Data is not yet publicly available.
-Find a presentation of the real world data collected in Stokcholm in: Stavroulaki et al. 2019, Statistical modelling and analyisis of big data on pedestrian movement, in Proceedings of 12th International Space Syntax symposium, pp. 79.1-79-24. http://www.12sssbeijing.com/upload/file/1562661632.pdf
-Find a presentation of the real world data collected in Gothenburg in: Trafikontoret 2019 WiFi-mätningar av fotgängarflöden i Göteborgs innerstad-slutrapport, Diarienummer 5799/18, https://docplayer.se/155964446-Wifi-matningar-av-fotgangarfloden-i-goteborgs-innerstad-slutrapport.html
+Data is not yet publicly available.  
+Find a presentation of the real world data collected in Stokcholm in: Stavroulaki et al. 2019, Statistical modelling and analyisis of big data on pedestrian movement, in Proceedings of 12th International Space Syntax symposium, pp. 79.1-79-24. http://www.12sssbeijing.com/upload/file/1562661632.pdf  
+Find a presentation of the real world data collected in Gothenburg in: Trafikontoret 2019 WiFi-mätningar av fotgängarflöden i Göteborgs innerstad-slutrapport, Diarienummer 5799/18, https://docplayer.se/155964446-Wifi-matningar-av-fotgangarfloden-i-goteborgs-innerstad-slutrapport.html  
