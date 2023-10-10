@@ -1,6 +1,6 @@
 # Crowd Movement
  
-A notebook for fitting and evaluating models for daily counts of pedestrians. Generalization is tested through fitting on data collected from Stockholm in October 2017 by the Spatial Morphology Group (SMoG, smog.chalmers.se) in colalboration with the private company Bumbee Labs Stockholm (https://bumbeelabs.com) and testing on data collected from Gothenburg in October 2018 by the traffic planning office in Gothenburg municipality.
+A notebook for fitting and evaluating models for daily counts of pedestrians. Generalization is tested through fitting on data collected from Stockholm in October 2017 by the Spatial Morphology Group (SMoG, smog.chalmers.se) in collaboration with the private company Bumbee Labs Stockholm (https://bumbeelabs.com) and testing on data collected from Gothenburg in October 2018 by the traffic planning office in Gothenburg municipality.
  
 The models are used in the 'Crowd Movement, a milestone project of the DTCC Gothenburg (Digital Twin City Center at Chalmers University of Technology (https://dtcc.chalmers.se/crowd-movement-2/). The project aims to support decision making in urban planning through analyzing and simulating pedestrian movement flows in public space by linking macroscale and microscale simulations.
  
